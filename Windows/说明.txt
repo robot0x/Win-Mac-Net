@@ -6,11 +6,11 @@ all文件夹：
 
 ping文件夹：
 双击	test_ping.bat		运行类似于 ping -n 10 ***
-一次能够ping多个ip加快运行速度。
+一次能够ping多个ip(默认网关和MyIp.txt下的ip)加快运行速度。
 
 tracert文件夹：
 双击	test_tracert.bat	运行类似于 tracert -d ***
-一次能够tracert多个ip加快运行速度。
+一次能够tracert多个ip(默认网关和MyIp.txt下的ip)加快运行速度。
 
 加速原理：
 实际上cmd环境无法进行多进程或者多线程任务。但是可以同时打开多个
