@@ -30,13 +30,13 @@ tee.exe（windows下使用）
 ----------------------------------------
 ## Linux(Unix、Mac):
 #### _all.sh  --> 
-包含下面四种命令  
+包含下面四种命令
 #### _ifconfig.sh  --> 
-ifconfig主机  
+ifconfig主机
 ####_ping.sh  --> 
 ping包括默认网关和MyIp.txt下的网络
 ####_tracert.sh  --> 
-traccert包括默认网关和MyIp.txt下的网络
+tracert包括默认网关和MyIp.txt下的网络
 ####_nslookup.sh  --> 
 nslookup MyIp.txt下的网络
 
