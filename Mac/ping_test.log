@@ -1,0 +1,146 @@
+!!!!!!!!!!Start!!!!!!!!!!
+2017年 01月 15日 星期日 19:58:15 CST
+----------------------------------------
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.018 ms
+64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.017 ms
+64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.047 ms
+64 bytes from 127.0.0.1: icmp_seq=4 ttl=64 time=0.025 ms
+64 bytes from 127.0.0.1: icmp_seq=5 ttl=64 time=0.023 ms
+64 bytes from 127.0.0.1: icmp_seq=6 ttl=64 time=0.020 ms
+64 bytes from 127.0.0.1: icmp_seq=7 ttl=64 time=0.048 ms
+64 bytes from 127.0.0.1: icmp_seq=8 ttl=64 time=0.027 ms
+64 bytes from 127.0.0.1: icmp_seq=9 ttl=64 time=0.025 ms
+64 bytes from 127.0.0.1: icmp_seq=10 ttl=64 time=0.035 ms
+
+--- 127.0.0.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 8997ms
+rtt min/avg/max/mdev = 0.017/0.028/0.048/0.011 ms
+----------------------------------------
+----------------------------------------
+PING www.qq.com (59.37.96.63) 56(84) bytes of data.
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=1 ttl=54 time=310 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=2 ttl=54 time=352 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=3 ttl=54 time=97.0 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=4 ttl=54 time=410 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=5 ttl=54 time=445 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=6 ttl=54 time=164 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=7 ttl=54 time=555 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=8 ttl=54 time=478 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=9 ttl=54 time=759 ms
+64 bytes from 59.37.96.63 (59.37.96.63): icmp_seq=10 ttl=54 time=509 ms
+
+--- www.qq.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 97.040/408.258/759.214/181.774 ms
+----------------------------------------
+----------------------------------------
+PING 192.168.11.1 (192.168.11.1) 56(84) bytes of data.
+64 bytes from 192.168.11.1: icmp_seq=1 ttl=64 time=261 ms
+64 bytes from 192.168.11.1: icmp_seq=2 ttl=64 time=262 ms
+64 bytes from 192.168.11.1: icmp_seq=3 ttl=64 time=166 ms
+64 bytes from 192.168.11.1: icmp_seq=4 ttl=64 time=360 ms
+64 bytes from 192.168.11.1: icmp_seq=5 ttl=64 time=408 ms
+64 bytes from 192.168.11.1: icmp_seq=6 ttl=64 time=16.1 ms
+64 bytes from 192.168.11.1: icmp_seq=7 ttl=64 time=501 ms
+64 bytes from 192.168.11.1: icmp_seq=8 ttl=64 time=449 ms
+64 bytes from 192.168.11.1: icmp_seq=9 ttl=64 time=675 ms
+64 bytes from 192.168.11.1: icmp_seq=10 ttl=64 time=594 ms
+
+--- 192.168.11.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 16.154/369.709/675.760/189.575 ms
+----------------------------------------
+----------------------------------------
+PING www.a.shifen.com (14.215.177.38) 56(84) bytes of data.
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=1 ttl=56 time=315 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=2 ttl=56 time=351 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=3 ttl=56 time=96.0 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=4 ttl=56 time=410 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=5 ttl=56 time=445 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=6 ttl=56 time=164 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=7 ttl=56 time=483 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=8 ttl=56 time=478 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=9 ttl=56 time=759 ms
+64 bytes from 14.215.177.38 (14.215.177.38): icmp_seq=10 ttl=56 time=511 ms
+
+--- www.a.shifen.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 96.028/401.574/759.207/177.165 ms
+----------------------------------------
+!!!!!!!!!!End!!!!!!!!!!
+
+
+!!!!!!!!!!Start!!!!!!!!!!
+2017年 01月 15日 星期日 19:58:37 CST
+----------------------------------------
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.020 ms
+64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.047 ms
+64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.047 ms
+64 bytes from 127.0.0.1: icmp_seq=4 ttl=64 time=0.051 ms
+64 bytes from 127.0.0.1: icmp_seq=5 ttl=64 time=0.025 ms
+64 bytes from 127.0.0.1: icmp_seq=6 ttl=64 time=0.028 ms
+64 bytes from 127.0.0.1: icmp_seq=7 ttl=64 time=0.043 ms
+64 bytes from 127.0.0.1: icmp_seq=8 ttl=64 time=0.037 ms
+64 bytes from 127.0.0.1: icmp_seq=9 ttl=64 time=0.046 ms
+64 bytes from 127.0.0.1: icmp_seq=10 ttl=64 time=0.026 ms
+
+--- 127.0.0.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9002ms
+rtt min/avg/max/mdev = 0.020/0.037/0.051/0.010 ms
+----------------------------------------
+----------------------------------------
+PING www.qq.com (14.17.32.211) 56(84) bytes of data.
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=1 ttl=54 time=66.1 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=2 ttl=54 time=51.1 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=3 ttl=54 time=39.1 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=4 ttl=54 time=117 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=5 ttl=54 time=221 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=6 ttl=54 time=380 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=7 ttl=54 time=263 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=8 ttl=54 time=285 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=9 ttl=54 time=284 ms
+64 bytes from 14.17.32.211 (14.17.32.211): icmp_seq=10 ttl=54 time=225 ms
+
+--- www.qq.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 39.160/193.554/380.316/111.599 ms
+----------------------------------------
+----------------------------------------
+PING 192.168.11.1 (192.168.11.1) 56(84) bytes of data.
+64 bytes from 192.168.11.1: icmp_seq=1 ttl=64 time=60.3 ms
+64 bytes from 192.168.11.1: icmp_seq=2 ttl=64 time=62.9 ms
+64 bytes from 192.168.11.1: icmp_seq=3 ttl=64 time=42.2 ms
+64 bytes from 192.168.11.1: icmp_seq=4 ttl=64 time=130 ms
+64 bytes from 192.168.11.1: icmp_seq=5 ttl=64 time=229 ms
+64 bytes from 192.168.11.1: icmp_seq=6 ttl=64 time=316 ms
+64 bytes from 192.168.11.1: icmp_seq=7 ttl=64 time=322 ms
+64 bytes from 192.168.11.1: icmp_seq=8 ttl=64 time=350 ms
+64 bytes from 192.168.11.1: icmp_seq=9 ttl=64 time=244 ms
+64 bytes from 192.168.11.1: icmp_seq=10 ttl=64 time=265 ms
+
+--- 192.168.11.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9006ms
+rtt min/avg/max/mdev = 42.265/202.517/350.620/112.402 ms
+----------------------------------------
+----------------------------------------
+PING www.a.shifen.com (14.215.177.37) 56(84) bytes of data.
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=1 ttl=56 time=66.1 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=2 ttl=56 time=51.8 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=3 ttl=56 time=39.1 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=4 ttl=56 time=155 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=5 ttl=56 time=222 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=6 ttl=56 time=381 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=7 ttl=56 time=264 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=8 ttl=56 time=286 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=9 ttl=56 time=285 ms
+64 bytes from 14.215.177.37 (14.215.177.37): icmp_seq=10 ttl=56 time=220 ms
+
+--- www.a.shifen.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9006ms
+rtt min/avg/max/mdev = 39.154/197.416/381.323/109.818 ms
+----------------------------------------
+!!!!!!!!!!End!!!!!!!!!!
+
+

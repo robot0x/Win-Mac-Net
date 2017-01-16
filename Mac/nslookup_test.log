@@ -1,0 +1,66 @@
+2017年 01月 15日 星期日 20:00:20 CST
+----------------------------------------
+Server:		192.168.11.1
+Address:	192.168.11.1#53
+
+1.0.0.127.in-addr.arpa	name = localhost.lan.
+
+----------------------------------------
+----------------------------------------
+Server:		192.168.11.1
+Address:	192.168.11.1#53
+
+Non-authoritative answer:
+Name:	www.qq.com
+Address: 14.17.32.211
+Name:	www.qq.com
+Address: 14.17.42.40
+Name:	www.qq.com
+Address: 59.37.96.63
+
+----------------------------------------
+----------------------------------------
+Server:		192.168.11.1
+Address:	192.168.11.1#53
+
+Non-authoritative answer:
+www.baidu.com	canonical name = www.a.shifen.com.
+Name:	www.a.shifen.com
+Address: 14.215.177.38
+Name:	www.a.shifen.com
+Address: 14.215.177.37
+
+----------------------------------------
+2017年 01月 15日 星期日 20:00:50 CST
+----------------------------------------
+Server:		192.168.11.1
+Address:	192.168.11.1#53
+
+1.0.0.127.in-addr.arpa	name = localhost.lan.
+
+----------------------------------------
+----------------------------------------
+Server:		192.168.11.1
+Address:	192.168.11.1#53
+
+Non-authoritative answer:
+Name:	www.qq.com
+Address: 59.37.96.63
+Name:	www.qq.com
+Address: 14.17.32.211
+Name:	www.qq.com
+Address: 14.17.42.40
+
+----------------------------------------
+----------------------------------------
+Server:		192.168.11.1
+Address:	192.168.11.1#53
+
+Non-authoritative answer:
+www.baidu.com	canonical name = www.a.shifen.com.
+Name:	www.a.shifen.com
+Address: 14.215.177.37
+Name:	www.a.shifen.com
+Address: 14.215.177.38
+
+----------------------------------------
