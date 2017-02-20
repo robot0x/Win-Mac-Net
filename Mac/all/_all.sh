@@ -4,6 +4,8 @@ echo "!!!!!!!!!!Start!!!!!!!!!!" >> all_test.log
 ##### date相关
 date | tee -a all_test.log
 
+##### 记录默认网关
+default=`netstat -r | grep "default" | awk '(NR==1){print $2}'`
 
 ##### ifconfig相关
 echo "---------------------------------------------" | tee -a all_test.log
@@ -15,7 +17,6 @@ echo "---------------------------------------------" | tee -a all_test.log
 n=1
 
 # ping默认网关
-default=`netstat -r | grep "default" | awk '{print $2}'`
 (ping -c 10 $default | tee -a "ping"$n".tmp")&
 
 # ping文件里的ip
@@ -42,14 +43,13 @@ done
 n=1
 
 # tracert默认网关
-default=`netstat -r | grep "default" | awk '{print $2}'`
-(traceroute -n $default | tee -a "tracert"$n".tmp")&
+(traceroute -I $default | tee -a "tracert"$n".tmp")&
 
 # traceroute文件里的ip
 for ip in $(cat MyIp.txt | cut -d '$' -f 1)
 do
 n=`expr $n + 1`
-(traceroute -n $ip | tee -a "tracert"$n".tmp")&
+(traceroute -I $ip | tee -a "tracert"$n".tmp")&
 done
 
 # 等待所有后台执行完毕

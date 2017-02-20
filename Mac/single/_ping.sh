@@ -5,7 +5,7 @@ date | tee -a ping_test.log
 n=1
 
 # ping默认网关
-default=`netstat -r | grep "default" | awk '{print $2}'`
+default=`netstat -r | grep "default" | awk '(NR==1){print $2}'`
 (ping -c 10 $default | tee -a "ping"$n".tmp")&
 
 # ping文件里的ip
