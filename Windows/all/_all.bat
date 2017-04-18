@@ -57,7 +57,7 @@ goto :eof
 :ipconfig
 echo ---------------------------------------------  >> %1
 echo ipconfig status: >> %1
-ipconfig | tee.exe -a %1
+ipconfig | tee.exe %1
 
 goto :eof
 :nslookup
@@ -66,13 +66,13 @@ echo nslookup status: >> %1
 for /f %%i in (MyIp.txt) do (
 echo. >> %1
 echo %%i >> %1
-nslookup %%i | tee.exe -a %1
+nslookup %%i | tee.exe %1
 )
 
 goto :eof
 :arp
 echo ---------------------------------------------  >> %1
 echo arp status: >> %1
-arp -a | tee.exe -a %1
-arp -d | tee.exe -a %1
-arp -a | tee.exe -a %1
+arp -a | tee.exe %1
+arp -d | tee.exe %1
+arp -a | tee.exe %1

@@ -21,6 +21,7 @@ echo 请等待所有窗口关闭再按继续...
 pause
 call :ping
 
+rem 将目录下所有 *.tmp 文件整合到一个文件中
 :ping
 ren p*.tmp p*.end >nul
 copy /b result_ping.log + p*.end result_ping.log >nul&&del /f /q *.end >nul

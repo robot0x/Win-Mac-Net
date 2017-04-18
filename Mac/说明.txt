@@ -4,17 +4,17 @@
 _all.sh		脚本包含下面四种命令
 
 ### single文件夹：
-含有四个文件，根据需要使用
-_ifconfig.sh 	ifconfig主机
-_ping.sh		ping 包括默认网关和 MyIp.txt 下的网络
-_tracert.sh			tracert 包括默认网关和 MyIp.txt 下的网络
+含有四个文件，根据需要使用  
+_ifconfig.sh 	ifconfig主机  
+_ping.sh		ping 包括默认网关和 MyIp.txt 下的网络  
+_tracert.sh			tracert 包括默认网关和 MyIp.txt 下的网络  
 _nslookup.sh 		nslookup MyIp.txt下的网络
 
 ### 执行步骤(_all.sh为例)：
-0.   打开终端Terminal
-1.   cd 脚本所在目录路径
-2.   chmod 755 *
-3.   ./_all.sh
+0.   打开终端Terminal  
+1.   cd 脚本所在目录路径  
+2.   chmod 755 *  
+3.   ./_all.sh  
 4.   开始等待，开始会稍微慢，因为在获取默认网关。
 
 ### 注意：
